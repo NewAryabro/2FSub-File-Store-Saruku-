@@ -37,7 +37,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/0338e5f9959b111a
 
 HELP_TXT = "<b>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @TELUGU_SARUKU_BITLU\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/TELUGU_SARUKU_BITLU>Telugu Saruku Bitlu 🥵</a></b>"
 ABOUT_TXT = "<b>💓 Owner : <a href=https://t.me/Jin_woo_Bro>Bro❤‍🔥</a>\n🫡 ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/TELUGU_SARUKU_BITLU>Telugu Saruku Bitlu</a>\n🥵 L€@k$: <a href=https://t.me/+4QSB2tPk-ME2NDdl>clg girl and luvrs 😛</a>\n 🔞 ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+aph6xGmeXgU2NzFl>Adult Movies</a>\n🫰 ғɪʟᴛᴇʀ ʙᴏᴛ : <a href=https://t.me/Aryas_Movies_Finder_bot>ғɪʟᴛᴇʀ ʙᴏᴛ 🫶</a></b>"
-START_MSG = os.environ.get("START_MESSAGE", "<b>Hello!! {first}\n\n ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ. \n\n ᴊᴏɪɴ ᴀᴠᴠᴀɴᴅɪ ᴍᴀᴡᴀ 😝 <a href=https://t.me/TELUGU_SARUKU_BITLU>Telugu Saruku Bitlu 🥵</a></b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>Hello!! {first}\n\n ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ. \n\n ᴊᴏɪɴ ᴀᴠᴠᴀɴᴅɪ ᴍᴀᴡᴀ 😝<a href=https://t.me/TELUGU_SARUKU_BITLU>Telugu Saruku Bitlu 🥵</a></b>")
 try:
     ADMINS=[7345359023]
     for x in (os.environ.get("ADMINS", "7179779107 6081617163 2085067057 2066626554 1676717784").split()):
