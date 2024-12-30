@@ -18,9 +18,9 @@ API_HASH = os.environ.get("API_HASH", "dbd251e9ad4883b0443cc82b618ac6fa")
 #Your db channel Id
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002292066966"))
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "Arya_Bro")
+OWNER = os.environ.get("OWNER", "Jin_woo_Bro")
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "6081617163"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7345359023"))
 #Port
 PORT = os.environ.get("PORT", "8030")
 #Database
@@ -39,8 +39,8 @@ HELP_TXT = "<b>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡᴏʀᴋ ғ
 ABOUT_TXT = "<b>💓 Owner : <a href=https://t.me/Jin_woo_Bro>Bro❤‍🔥</a>\n🫡 ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/TELUGU_SARUKU_BITLU>Telugu Saruku Bitlu</a>\n🥵 L€@k$: <a href=https://t.me/+4QSB2tPk-ME2NDdl>clg girl and luvrs 😛</a>\n 🔞 ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+aph6xGmeXgU2NzFl>Adult Movies</a>\n🫰 ғɪʟᴛᴇʀ ʙᴏᴛ : <a href=https://t.me/Aryas_Movies_Finder_bot>ғɪʟᴛᴇʀ ʙᴏᴛ 🫶</a></b>"
 START_MSG = os.environ.get("START_MESSAGE", "<b>Hello!! {first}\n\n ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</b>")
 try:
-    ADMINS=[6081617163]
-    for x in (os.environ.get("ADMINS", "7179779107 2085067057 2066626554 1676717784").split()):
+    ADMINS=[7345359023]
+    for x in (os.environ.get("ADMINS", "7179779107 6081617163 2085067057 2066626554 1676717784").split()):
         ADMINS.append(int(x))
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
@@ -61,7 +61,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "sorry ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ owner!!"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(6081617163)
+ADMINS.append(7345359023)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
